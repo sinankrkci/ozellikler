@@ -1,5 +1,4 @@
 1. Ödünç alma sistemi
 2. Kitap arama fonksiyonu
-3. Kullanıcı dostu arayüz
-4. Kullanıcı hesabı yönetimi
-5. Kullanıcı yorumları ve değerlendirmeleri
+3. Kullanıcı hesabı yönetimi
+4. Kullanıcı yorumları ve değerlendirmeleri
