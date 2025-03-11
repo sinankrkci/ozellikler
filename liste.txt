@@ -2,3 +2,4 @@
 2. Kitap arama fonksiyonu
 3. Ödünç alma sistemi
 4. Kullanıcı hesabı yönetimi
+5. Kullanıcı yorumları ve değerlendirmeleri
